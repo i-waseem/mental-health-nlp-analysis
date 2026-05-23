@@ -140,4 +140,4 @@ jupyter notebook notebooks/mental_health_nlp_analysis.ipynb
 
 **Iqra Waseem**
 BSc Computer Science, First Class Honours -- University of Bradford
-[GitHub](https://github.com/i-waseem) | [LinkedIn](www.linkedin.com/in/i-waseem)
+[GitHub](https://github.com/i-waseem) | [LinkedIn](https://www.linkedin.com/in/i-waseem/)
